@@ -80,7 +80,7 @@ In the /etc/sudoers.d, create a new file called grader
     
     to see and copy the key
     ```
-    cat ~/.ssh/graderKeyP.pub
+    cat ~/.ssh/graderKey.pub
     ```
     Back on ther server 
     ```
